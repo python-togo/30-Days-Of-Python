@@ -55,6 +55,6 @@ Ajoute ta ligne dans le tableau ci-dessous en respectant exactement ce format :
 
 <!-- Ajoute tes lignes ci-dessous, une par participant -->
 
-| Prénom | Username Fata | Lien GitHub du projet | Projet 2 (optionnel) |
+| Grace Eninam | eninamgrace | https://github.com/graceeninam-tech/zemidjan-calculator | - |
 |---|---|---|---|
 | Geoffrey|jeffreyGordon | https://github.com/geoffreylgv/projetPyContogo2026-vtc | https://github.com/geoffreylgv/projetPyContogo2026-exchangeSimulator|
