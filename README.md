@@ -1,36 +1,21 @@
-# 30-DAYS-OF-PYTHON
+### Structure du projet
 
-Welcome to the **30 Days of Python** challenge. This is a self-paced learning program designed to help you strengthen your understanding of Python. Over the next 30 days, you'll go from the basics of the language to building a small project. This initiative is organized by the [Python Togo Community](https://pytogo.org).
+- constantes.py : les tarifs et plages horaires
+- calculateur.py : fonction de  conversion et calcule
+- interface.py : interface avec l'utilisateur
+- main.py : point d'entrée et boucle principale
 
-## Objectives
+### Utilisation 
 
-- Learn Python syntax and scripting
-- Build problem-solving and logical thinking skills
-- Understand core programming concepts
-- Practice data structures and algorithms (DSA)
-- Build a small Python project by the end of the challenge
+- cloner le projet:
+- git clone https://github.com/Abou-fatima/30-Days-Of-Python
 
-## Projet Final - Édition 2026
-
-> ⚠️ **Le projet final change chaque année.** Pour l'édition en cours [PyCon Togo 2026](https://pycon.pytogo.org), consulte impérativement le fichier dédié ci-dessous - ne te base pas sur les anciens projets des éditions précédentes.
-
-📄 **Brief complet du projet 2026 : [`Projects.md`](./Projects.md)**
-
-Résumé :
-- **Projet 1 (obligatoire, tous niveaux) :** Calculateur de Trajet Zemidjan/Taxi
-- **Projet 2 (optionnel, intermédiaire/avancé) :** Simulateur de Change FCFA/Devises
-- Aucune utilisation d'IA générative autorisée
-- On ne triche pas son prochain - travail strictement personnel
-- **Deadline : 20 août 2026, 23h59 (heure de Lomé)** - seul le dernier commit avant cette date/heure est pris en compte
+Exigence: 
+- avoir installé python
+- Lancer dans le terminal du projet
+python main.py
 
 
-Pour le projet final 2026, suis plutôt les instructions de [SUBMISSION.md](./SUBMISSION.md)
-> [Demo Video]( Bientôt disponible)
+## 🧪 Résultats des tests
 
-## License
-
-This project is licensed under the Apache 2.0 License.
-
----
-
-Happy learning! If you get stuck, don't hesitate to ask questions or share your progress in the [Python Togo Community](https://pytogo.org/discord).
+![Test du calculateur](resultat.png)
