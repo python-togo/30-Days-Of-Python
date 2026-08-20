@@ -74,4 +74,5 @@ Ajoute ta ligne dans le tableau ci-dessous en respectant exactement ce format :
 |Kossivi Tinè | kossivi | https://github.com/tkossi3/PyConTogo2026_TaxiZedTrajetCalc.git | https://github.com/tkossi3/PyConTogo2026_SimilateurDeChangeFcfa.git |
 | Koudjovi Emmanuel | emmanuel7911 | https://github.com/MK228-charles/miozo-zemidjan-calculator | https://github.com/MK228-charles/sika-exchange |
 | Manase | manase | https://github.com/MrCynk/Projet1_PyconTogo2026-Zemidjan-Taxi_Calculator | https://github.com/MrCynk/Projet2_PyconTogo2026-Simulateur_de_Change_FCFA |
+| Jean | jean39 | https://github.com/JeanJAKK/calculator_trajet | - |
 
