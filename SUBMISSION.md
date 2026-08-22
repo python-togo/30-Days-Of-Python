@@ -75,4 +75,4 @@ Ajoute ta ligne dans le tableau ci-dessous en respectant exactement ce format :
 | Koudjovi Emmanuel | emmanuel7911 | https://github.com/MK228-charles/miozo-zemidjan-calculator | https://github.com/MK228-charles/sika-exchange |
 | Sophos FOLIKPO | sophos | https://github.com/sophos-dev/taxi-zem | https://github.com/sophos-dev/CFA-Change |
 | Manase | manase | https://github.com/MrCynk/Projet1_PyconTogo2026-Zemidjan-Taxi_Calculator | https://github.com/MrCynk/Projet2_PyconTogo2026-Simulateur_de_Change_FCFA |
-
+| Luke | luke2 | https://github.com/PokerFaceL/zemidjan-calculator.git | https://github.com/PokerFaceL/convertisseur_devises.git |
